@@ -4,7 +4,6 @@
   "description": "Takes input from console to add a new CPP class to the user's primary google calendar",
   "main": "js/index.js",
   "scripts": {
-    "start": "node server.js",
     "start": "nodemon app"
   },
   "author": "Luke Dinh",
